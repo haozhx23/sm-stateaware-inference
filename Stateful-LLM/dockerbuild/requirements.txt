@@ -1,0 +1,14 @@
+# sglang[all]
+sanic
+numpy
+cowsay
+pyfiglet
+# orjson
+# uvicorn
+# fastapi
+
+# wheel
+# html5lib
+# six
+# huggingface_hub
+# transformers==4.45.2
